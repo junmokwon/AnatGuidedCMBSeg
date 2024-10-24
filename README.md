@@ -4,6 +4,20 @@ Official implementation of **Anatomically-Guided Segmentation of Cerebral Microb
 ## News
 - (Jun. 2024) Our paper has been accepted to MICCAI 2024!
 
+## Citation
+If you find this code useful in your research, please consider citing:
+
+```
+    @inproceedings{kwon2024AnatGuided,
+	author={Kwon, Junmo and Seo, Sang Won and Park, Hyunjin},
+	title={Anatomically-Guided Segmentation of Cerebral Microbleeds in T1-weighted and T2*-weighted MRI},
+	booktitle={27th International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)},
+	pages={24--33},
+	doi={10.1007/978-3-031-72069-7_3},
+	year={2024},
+    }
+```
+
 ## Installation
 1. Install Python 3.8 and PyTorch 1.11.0. We recommend to use [**pytorch/pytorch:1.11.0-cuda11.3-cudnn8-runtime**](https://hub.docker.com/layers/pytorch/pytorch/1.11.0-cuda11.3-cudnn8-runtime/images/sha256-9904a7e081eaca29e3ee46afac87f2879676dd3bf7b5e9b8450454d84e074ef0)
 2. Install [**nnUNet-v1**](https://github.com/MIC-DKFZ/nnUNet/tree/nnunetv1)
