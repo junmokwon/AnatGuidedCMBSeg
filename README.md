@@ -8,14 +8,16 @@ Official implementation of **Anatomically-Guided Segmentation of Cerebral Microb
 If you find this code useful in your research, please consider citing:
 
 ```
-    @inproceedings{kwon2024AnatGuided,
-	author={Kwon, Junmo and Seo, Sang Won and Park, Hyunjin},
-	title={Anatomically-Guided Segmentation of Cerebral Microbleeds in T1-weighted and T2*-weighted MRI},
-	booktitle={27th International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)},
-	pages={24--33},
-	doi={10.1007/978-3-031-72069-7_3},
-	year={2024},
-    }
+@inproceedings{kwon2024anatomically,
+    author = { Kwon, Junmo and Seo, Sang Won and Park, Hyunjin},
+    title = { { Anatomically-Guided Segmentation of Cerebral Microbleeds in T1-weighted and T2*-weighted MRI } },
+    booktitle = {proceedings of Medical Image Computing and Computer Assisted Intervention -- MICCAI 2024},
+    year = {2024},
+    publisher = {Springer Nature Switzerland},
+    volume = {LNCS 15002},
+    month = {October},
+    page = {24 -- 33}
+}
 ```
 
 ## Installation
